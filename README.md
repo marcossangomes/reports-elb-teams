@@ -1,0 +1,1 @@
+Check my article https://medium.com/@marcosangomes/mapping-the-costs-of-ec2-services-aaa1bdf0c642 to see the explanation about this project.
